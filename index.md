@@ -3,7 +3,7 @@ layout: default
 title: Jelkoot
 ---
 
-Hello! 👋🏼
+# Hello! 👋🏼
 
 🎸 I'm Jelkoot, and I write **guitar sheet music in fingerstyle** for songs that I enjoy playing.
 
