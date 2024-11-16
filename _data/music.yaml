@@ -1,0 +1,18 @@
+types:
+  - id: irish
+    title: ☘️ Irish Music
+    songs:
+      - name: Black Velvet Band
+        artist: The Dubliners
+        sheet: assets/sheets/irish/the_dubliners-black_velvet_band.pdf
+  #       link: https://www.youtube.com
+  #     - name: Whiskey in the Jar
+  #       artist: The Dubliners
+  #       sheet: assets/sheets/irish/the_dubliners-whiskey_in_the_jar.pdf
+  # - id: christmas
+  #   title: 🎄 Christmas Songs
+  #   songs:
+  #     - name: Christmas Time
+  #       artist: Bryan Adams
+  #       sheet: assets/sheets/christmas/bryan_adams-christmas_time.pdf
+  #       link: https://www.youtube.com

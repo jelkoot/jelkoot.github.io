@@ -1,0 +1,16 @@
+<a class="logo" href="{{ site.baseurl }}">
+    <img src="/assets/logo.png">
+</a>
+
+<h1>Jelkoot's</h1>
+<h3>Fingerstyle Guitar Music</h3>
+
+<a href="https://www.youtube.com/@Jelkoot">
+    <img class="icon" src="/assets/icons/youtube.png">
+</a>
+
+<div class="toc">
+{% for type in site.data.music.types %}
+    <a href="{{ site.baseurl }}#{{ type.id }}">{{ type.title }} ▸</a> <br>
+{% endfor %}
+</div>

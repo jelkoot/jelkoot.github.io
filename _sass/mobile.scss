@@ -1,0 +1,32 @@
+@media (max-width: 960px)  {
+    body {
+        flex-direction: column;
+    }
+
+    .about .logo {
+        display: inline;
+        float: none;
+    }
+
+    .logo > img {
+        max-height: 25vh;
+        width: auto;
+
+        margin: $top-padding;
+    }
+
+    .about {
+        width: 100%;
+        max-width: none;
+
+        text-align: center;
+        position: inherit;
+
+        border-bottom: 1px solid gray;
+        padding-bottom: 2em;
+    }
+
+    .info {
+        justify-content: center;
+    }
+}
