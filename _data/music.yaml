@@ -6,9 +6,9 @@ types:
         artist: The Dubliners
         sheet: assets/sheets/irish/the_dubliners-black_velvet_band.pdf
   #       link: https://www.youtube.com
-  #     - name: Whiskey in the Jar
-  #       artist: The Dubliners
-  #       sheet: assets/sheets/irish/the_dubliners-whiskey_in_the_jar.pdf
+      - name: Whiskey in the Jar
+        artist: The Dubliners
+        sheet: assets/sheets/irish/the_dubliners-whiskey_in_the_jar.pdf
   # - id: christmas
   #   title: 🎄 Christmas Songs
   #   songs:
