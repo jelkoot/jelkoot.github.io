@@ -5,7 +5,7 @@ types:
       - name: Black Velvet Band
         artist: The Dubliners
         sheet: assets/sheets/irish/the_dubliners-black_velvet_band.pdf
-  #       link: https://www.youtube.com
+        link: https://youtu.be/O8YFpm_8Lbo
       - name: Whiskey in the Jar
         artist: The Dubliners
         sheet: assets/sheets/irish/the_dubliners-whiskey_in_the_jar.pdf
