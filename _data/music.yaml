@@ -9,6 +9,12 @@ types:
       - name: Whiskey in the Jar
         artist: The Dubliners
         sheet: assets/sheets/irish/the_dubliners-whiskey_in_the_jar.pdf
+  - id: pop
+    title: 🎤 Pop
+    songs:
+      - name: Love You Still
+        artist: Tyler Shaw
+        link: https://youtu.be/YTCDi5N9IpI
   # - id: christmas
   #   title: 🎄 Christmas Songs
   #   songs:
