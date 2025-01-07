@@ -14,5 +14,5 @@ types:
     songs:
       - name: Love You Still
         artist: Tyler Shaw
-	sheet: assets\sheets\pop\tyler_shaw-love_you_still.pdf
+	sheet: assets/sheets/pop/tyler_shaw-love_you_still.pdf
         link: https://youtu.be/YTCDi5N9IpI
