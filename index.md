@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jelkoot
+title: Jelkoot Music
 ---
 
 # Hello! 👋🏼
