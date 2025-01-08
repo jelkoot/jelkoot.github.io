@@ -9,4 +9,4 @@ title: Jelkoot Music
 
 I'm working on:
 * 🖋️ adding new pieces to this site, so make sure to come back, and
-* 🎙️ recording play-throughs for YouTube, so check out my channel: [@Jelkoot](https://www.youtube.com/@Jelkoot)!
+* 🎙️ recording play-throughs for YouTube, so check out my channel: [@JelkootMusic](https://www.youtube.com/@JelkootMusic)!
