@@ -9,6 +9,7 @@ types:
       - name: Whiskey in the Jar
         artist: The Dubliners
         sheet: assets/sheets/irish/the_dubliners-whiskey_in_the_jar.pdf
+        link: https://youtu.be/WkItyNFSgb4
   - id: pop
     title: 🎤 Pop
     songs:
