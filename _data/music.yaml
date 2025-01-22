@@ -12,7 +12,7 @@ types:
         link: https://youtu.be/WkItyNFSgb4
       - name: The Wild Rover
         artist: The Dubliners
-        sheet: assets/sheets/irish.the_dubliners-the_wild_rover.pdf
+        sheet: assets/sheets/irish/the_dubliners-whiskey_in_the_jar.pdf
         link: https://youtu.be/JPiggJXpFz0
   - id: pop
     title: 🎤 Pop
