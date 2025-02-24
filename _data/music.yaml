@@ -17,6 +17,9 @@ types:
   - id: pop
     title: 🎤 Pop
     songs:
+      - name: Demons
+        artist: Imagine Dragons
+        link: https://youtu.be/28YGvgXAVBM
       - name: Love You Still
         artist: Tyler Shaw
         sheet: assets/sheets/pop/tyler_shaw-love_you_still.pdf
