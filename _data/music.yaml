@@ -21,6 +21,10 @@ types:
         artist: Imagine Dragons
         sheet: assets/sheets/pop/imagine_dragons-demons.pdf
         link: https://youtu.be/28YGvgXAVBM
+      - name: Hold Back The River
+        artist: James Bay
+        sheet: assets/sheets/pop/james_bay-hold_back_the_river.pdf
+        link: https://youtu.be/Myl6ZOaIpDg
       - name: Love You Still
         artist: Tyler Shaw
         sheet: assets/sheets/pop/tyler_shaw-love_you_still.pdf
