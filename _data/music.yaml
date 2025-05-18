@@ -33,3 +33,10 @@ types:
         artist: Bastille
         sheet: assets/sheets/pop/bastille-pompeii.pdf
         link: https://youtu.be/fcj59FonTMs
+  - id: rock
+    title: 🎸 Rock
+    songs:
+      - name: Have You Ever Seen the Rain
+        artist: Creedence Clearwater Revival
+        sheet: assets/sheets/rock/creedence_clearwater_revival-have_you_ever_seen_the_rain.pdf
+        link: https://youtu.be/NMC1Wmqt5f8
