@@ -33,6 +33,13 @@ types:
         artist: Bastille
         sheet: assets/sheets/pop/bastille-pompeii.pdf
         link: https://youtu.be/fcj59FonTMs
+  - id: pop-rock
+    title: 🎙️ Pop Rock
+    songs:
+      - name: Hey There Delilah
+        artist: Plain White T's
+        sheet: assets/sheets/pop-rock/plain_white_ts-hey_there_delilah.pdf
+        link: https://youtu.be/GZfKXl7MwKk
   - id: rock
     title: 🎸 Rock
     songs:
