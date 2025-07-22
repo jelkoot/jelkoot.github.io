@@ -17,6 +17,9 @@ types:
   - id: pop
     title: 🎤 Pop
     songs:
+      - name: White Flag
+        artist: Dido
+        link: https://youtu.be/8AvUCPhaDiE
       - name: Demons
         artist: Imagine Dragons
         sheet: assets/sheets/pop/imagine_dragons-demons.pdf
