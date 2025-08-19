@@ -30,6 +30,7 @@ types:
         link: https://youtu.be/Myl6ZOaIpDg
       - name: Someone You Loved
         artist: Lewis Capaldi
+        sheet: assets/sheets/pop/lewis_capaldi-someone_you_loved.pdf
         link: https://youtu.be/7PFyBVD4hqk
       - name: Love You Still
         artist: Tyler Shaw
@@ -49,6 +50,10 @@ types:
   - id: rock
     title: 🎸 Rock
     songs:
+      - name: Bad Moon Rising
+        artist: Creedence Clearwater Revival
+        sheet: assets/sheets/rock/creedence_clearwater_revival-bad_moon_rising.pdf
+        link: https://youtu.be/GVjpcep2HCQ
       - name: Have You Ever Seen the Rain
         artist: Creedence Clearwater Revival
         sheet: assets/sheets/rock/creedence_clearwater_revival-have_you_ever_seen_the_rain.pdf
