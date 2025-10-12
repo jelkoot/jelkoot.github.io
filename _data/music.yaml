@@ -19,7 +19,7 @@ types:
     songs:
       - name: White Flag
         artist: Dido
-        sheet: assets/sheets/pop/dido-white_flag
+        sheet: assets/sheets/pop/dido-white_flag.pdf
         link: https://youtu.be/8AvUCPhaDiE
       - name: Demons
         artist: Imagine Dragons
