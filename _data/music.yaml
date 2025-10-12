@@ -19,6 +19,7 @@ types:
     songs:
       - name: White Flag
         artist: Dido
+        sheet: assets/sheets/pop/dido-white_flag
         link: https://youtu.be/8AvUCPhaDiE
       - name: Demons
         artist: Imagine Dragons
@@ -52,6 +53,7 @@ types:
     songs:
       - name: Here Without You
         artist: 3 Doors Down
+        sheet: assets/sheets/rock/3_doors_down-here_without_you.pdf
         link: https://youtu.be/bPhulkp8Qc0
       - name: Bad Moon Rising
         artist: Creedence Clearwater Revival
@@ -63,4 +65,5 @@ types:
         link: https://youtu.be/NMC1Wmqt5f8
       - name: Basket Case
         artist: Green Day
+        sheet: assets/sheets/rock/green_day-basket_case.pdf
         link: https://youtu.be/zSE-u2ANpjE
