@@ -55,6 +55,10 @@ types:
         artist: 3 Doors Down
         sheet: assets/sheets/rock/3_doors_down-here_without_you.pdf
         link: https://youtu.be/bPhulkp8Qc0
+      - name: Summer Of '69
+        artist: Bryan Adams
+        sheet: assets/sheets/rock/bryan_adams-summer_of_69.pdf
+        link: https://youtu.be/ElCHR6koAJ4
       - name: Bad Moon Rising
         artist: Creedence Clearwater Revival
         sheet: assets/sheets/rock/creedence_clearwater_revival-bad_moon_rising.pdf
