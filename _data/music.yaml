@@ -1,4 +1,11 @@
 types:
+  - id: christmas
+    title: 🎄 Christmas Songs
+    songs:
+      - name: Last Christmas
+        artist: "Wham!"
+        sheet: assets/sheets/christmas/wham-last_christmas.pdf
+        link: https://youtu.be/3pQczxHeZGI
   - id: irish
     title: ☘️ Irish Music
     songs:
