@@ -6,6 +6,12 @@ types:
         artist: "Wham!"
         sheet: assets/sheets/christmas/wham-last_christmas.pdf
         link: https://youtu.be/3pQczxHeZGI
+  - id: country
+    title: 🌵 Country
+    songs:
+      - name: Heart of Gold
+        artist: Neil Young
+        link: https://youtu.be/DGtzHJoHs6k
   - id: irish
     title: ☘️ Irish Music
     songs:
@@ -28,6 +34,9 @@ types:
         artist: Dido
         sheet: assets/sheets/pop/dido-white_flag.pdf
         link: https://youtu.be/8AvUCPhaDiE
+      - name: The A Teamm
+        artist: Ed Sheeran
+        link: https://youtu.be/1qnfg57ZEKg
       - name: Demons
         artist: Imagine Dragons
         sheet: assets/sheets/pop/imagine_dragons-demons.pdf
@@ -78,3 +87,7 @@ types:
         artist: Green Day
         sheet: assets/sheets/rock/green_day-basket_case.pdf
         link: https://youtu.be/zSE-u2ANpjE
+      - name: One More Light
+        artist: Linkin Park
+        sheet: assets/sheets/rock/linkin_park-one_more_light.pdf
+        link: https://youtu.be/7cIC20zKJtw
