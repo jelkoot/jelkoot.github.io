@@ -11,6 +11,7 @@ types:
     songs:
       - name: Heart of Gold
         artist: Neil Young
+        sheet: assets/sheets/country/neil_young-heart_of_gold.pdf
         link: https://youtu.be/DGtzHJoHs6k
   - id: irish
     title: ☘️ Irish Music
@@ -36,6 +37,7 @@ types:
         link: https://youtu.be/8AvUCPhaDiE
       - name: The A Teamm
         artist: Ed Sheeran
+        sheet: assets/sheets/pop/ed_sheeran-the_a_team.pdf
         link: https://youtu.be/1qnfg57ZEKg
       - name: Demons
         artist: Imagine Dragons
